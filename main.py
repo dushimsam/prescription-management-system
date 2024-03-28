@@ -14,7 +14,7 @@ class Patient:
 
 
 def print_intro():
-    print("Welcome to the Doctor's Medicine Suggestion System!")
+    print("Welcome to the Doctor's Medical prescription Suggestion System!")
     print("Rules and Guidelines:")
     print("- Patients falling within certain age ranges will be considered as the same case for medicine suggestion.")
     print("- Otherwise, you will be prompted to enter a new medicine for the new case.")
