@@ -32,7 +32,7 @@ def categorize_age(age):
 
 
 def get_patient_data():
-    name = input("Enter patient's name: ")
+    Name = input("Enter patient's name: ")
     age = int(input("Enter patient's age: "))
     weight = float(input("Enter patient's weight (in kg): "))
     temperature = float(input("Enter patient's temperature (in Celsius): "))
